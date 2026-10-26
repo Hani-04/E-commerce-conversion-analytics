@@ -67,6 +67,32 @@ An ordered, session-level analysis identified the following progression:
 
 Of the 5,325 sessions reaching checkout in the defined sequence, approximately **52.6% completed a purchase**.
 
+### 4. Weekly Revenue Trends
+
+Weekly revenue peaked at $59,865 during the week beginning
+7 December 2020, before declining towards the end of December.
+
+Analysed weekly active users, purchasing users, purchases,
+revenue and purchaser rates to identify changes in
+e-commerce performance over time.
+
+### 5. Device and Geographic Performance
+
+Analysed revenue and purchaser rates across countries
+and device categories.
+
+Key findings:
+- US desktop generated $94,560 in revenue.
+- US mobile generated $63,522 in revenue.
+- Canada desktop generated $19,932 in revenue.
+- US mobile had a slightly higher purchaser rate (1.69%)
+  than US desktop (1.62%).
+
+Device-level conversion comparisons use aggregated
+country-device user counts, which may include users
+across multiple geographic segments.
+
+
 ## Advertising Economics: Illustrative Scenario
 
 A separate scenario explores how advertising expenditure influences key performance metrics.
@@ -133,6 +159,8 @@ The [`sql/`](sql/) directory contains six documented queries:
 | `04_paid_search_roas_scenario.sql` | Illustrative CPC, cost per purchase, and ROAS |
 | `05_budget_sensitivity.sql` | ROAS sensitivity under hypothetical spending assumptions |
 | `06_sequential_session_funnel.sql` | Ordered session-level purchasing funnel |
+| `07_weekly_performance.sql` | Weekly revenue and purchaser-rate trends |
+| `08_device_country_performance.sql` | Geographic and device-level performance |
 
 ## Tableau Dashboard
 
