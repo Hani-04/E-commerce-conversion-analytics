@@ -164,7 +164,7 @@ The [`sql/`](sql/) directory contains six documented queries:
 
 ## Interactive Tableau Dashboards
 
-[View the E-commerce Analytics Dashboards on Tableau Public](https://public.tableau.com/views/E-commerceConversionAcquisitionPerformanceDashboard/MarketingEfficiencyCustomerDiagnostics?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[View the E-commerce Analytics Dashboards on Tableau Public](https://public.tableau.com/views/E-commerceConversionAcquisitionPerformanceDashboard/AcquisitionConversion?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 The workbook contains two interactive dashboards:
 
