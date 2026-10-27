@@ -162,18 +162,26 @@ The [`sql/`](sql/) directory contains six documented queries:
 | `07_weekly_performance.sql` | Weekly revenue and purchaser-rate trends |
 | `08_device_country_performance.sql` | Geographic and device-level performance |
 
-## Tableau Dashboard
+## Interactive Tableau Dashboards
 
-**Interactive Dashboard:** Link to be added after final publication.
+[View the E-commerce Analytics Dashboards on Tableau Public]((https://public.tableau.com/views/E-commerceConversionAcquisitionPerformanceDashboard/MarketingEfficiencyCustomerDiagnostics?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
 
-The Tableau dashboard includes:
+The workbook contains two interactive dashboards:
 
-- Revenue by acquisition source
-- Purchase conversion rates by channel
-- User-level customer journey
-- Sequential session conversion funnel
-- Illustrative paid-search performance KPIs
-- Advertising expenditure sensitivity analysis
+1. **Acquisition & Conversion Performance**
+   - Revenue by acquisition source
+   - Purchase conversion rates
+   - Weekly revenue trends
+   - Sequential session conversion funnel
+
+2. **Marketing Efficiency & Customer Diagnostics**
+   - Illustrative ROAS, CPC and cost-per-purchase metrics
+   - Advertising budget sensitivity
+   - Geographic and device performance
+   - User-level customer journey analysis
+
+Advertising spend and click figures are hypothetical.
+
 
 ## Methodology & Limitations
 
